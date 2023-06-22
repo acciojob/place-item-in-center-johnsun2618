@@ -9,7 +9,7 @@
     align-items: center;
 }
 
-#item-1 div {
+#item-1 .holder {
     background-color: aqua;
     height: 200px;
     width: 200px;
