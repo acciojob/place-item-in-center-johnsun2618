@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+
+#item-1 {
+    /* border: 2px solid black; */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#item-1 div {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+}
